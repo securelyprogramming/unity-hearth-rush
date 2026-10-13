@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "hearth-rush",
+  "title": "Hearth Rush",
+  "engine": "Unity",
+  "family": "Cooperative cooking",
+  "projectPath": "Game",
+  "gameType": "3d-game",
+  "description": "Fetch ingredients, chop, cook and serve matching timed orders, then wash the dishes. Three-chapter development prototype; controller, multiplayer, platform and Steam release acceptance are tracked separately.",
+  "links": {
+    "repository": "https://github.com/securelyprogramming/unity-hearth-rush",
+    "websiteRepository": null,
+    "website": null,
+    "jira": null
+  },
+  "builder": {
+    "openScript": null,
+    "guide": "unity-hearth-rush/tools/StageBuilder/README.md"
+  },
+  "catalog": "unity-hearth-rush/tools/StageBuilder/stage-catalog.json"
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "slug": "hearth-rush",
+  "title": "Hearth Rush",
+  "engine": "Unity",
+  "projectPath": "unity-hearth-rush/Game",
+  "galleryRoot": "_Workspace",
+  "isConcept": false,
+  "status": "development-prototype-previews-pending",
+  "stages": [
+    {
+      "id": "frontier-chapter-1",
+      "title": "Chapter 1: First Service",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "Mina opens a kitchen with recipes saved from her grandmother and one reliable pan.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-hearth-rush/ContentSource/campaign.json",
+        "unity-hearth-rush/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-hearth-rush/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    },
+    {
+      "id": "frontier-chapter-2",
+      "title": "Chapter 2: The Traveling Table",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "Rosa welcomes a traveling festival. Theo must keep the prep bench ahead of the tickets.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-hearth-rush/ContentSource/campaign.json",
+        "unity-hearth-rush/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-hearth-rush/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    },
+    {
+      "id": "frontier-chapter-3",
+      "title": "Chapter 3: Hearth for the Town",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "The town arrives for a meal that cannot be made by one pair of hands.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-hearth-rush/ContentSource/campaign.json",
+        "unity-hearth-rush/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-hearth-rush/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    }
+  ],
+  "runtimeBoundary": "Native captures are references to the standalone development prototype. Workbench workshop edits are separate planning drafts until a runtime adapter is implemented. Physical input, cross-machine LAN, Windows/Linux and Steam release acceptance are tracked separately.",
+  "updated": "2026-10-13"
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "hearth-rush",
+  "title": "Hearth Rush",
+  "mode": "hearth-rush",
+  "genre": "cooperative-cooking",
+  "brief": "Fetch ingredients, chop and cook the correct recipes, plate orders and wash dishes before diners lose patience.",
+  "seed": 471,
+  "difficulty": 1,
+  "repository": "https://github.com/securelyprogramming/unity-hearth-rush",
+  "folder": "unity-hearth-rush",
+  "engine": "Unity",
+  "engineVersion": "6000.6.0f1",
+  "project": "Game",
+  "targetPlatforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "storeTarget": "Steam premium PC",
+  "players": "1–4 LAN cooperative players; local solo campaign",
+  "accent": "#d58d68",
+  "setting": "kitchen",
+  "enemy": "customer",
+  "cast": [
+    {
+      "name": "Mina Cole",
+      "role": "chef"
+    },
+    {
+      "name": "Theo",
+      "role": "prep cook"
+    },
+    {
+      "name": "Rosa",
+      "role": "host"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "First Service",
+      "story": "Mina opens a kitchen with recipes saved from her grandmother and one reliable pan.",
+      "layoutSeed": 471
+    },
+    {
+      "number": 2,
+      "title": "The Traveling Table",
+      "story": "Rosa welcomes a traveling festival. Theo must keep the prep bench ahead of the tickets.",
+      "layoutSeed": 644
+    },
+    {
+      "number": 3,
+      "title": "Hearth for the Town",
+      "story": "The town arrives for a meal that cannot be made by one pair of hands.",
+      "layoutSeed": 817
+    }
+  ],
+  "status": "development; build, gameplay, physical controller, multi-machine LAN and Steam release acceptance tracked separately",
+  "inspiration": "Original characters, names, story and code; genre references are design inspiration only."
+}
