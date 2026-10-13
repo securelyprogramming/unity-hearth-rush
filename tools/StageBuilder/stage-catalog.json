@@ -15,16 +15,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-chapter1.png",
-          "bytes": 182178,
-          "sha256": "7b3c691e659abe45495d4dc0fbb4a6195de9028ffce29c5e2005f13b7640729a",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-chapter1.png",
+          "bytes": 191002,
+          "sha256": "395af837dac9a2daf9fae580bf3ac208236095801d7682090faf0ddf6791f2a0",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Mina opens a kitchen with recipes saved from her grandmother and one reliable pan.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter1, chapter 1, simulation tick 240.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter1, chapter 1, simulation tick 240.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -41,16 +41,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-chapter2.png",
-          "bytes": 187319,
-          "sha256": "5ed92c10e19830258dcd5c60973b8ba8c5daba5698037a6c903da7e5fc441935",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-chapter2.png",
+          "bytes": 196082,
+          "sha256": "361e3fafd48dd5548d5113ffe51bfdb2f980fc15997a0259ee5edc12256cb993",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Rosa welcomes a traveling festival. Theo must keep the prep bench ahead of the tickets.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter2, chapter 2, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter2, chapter 2, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -67,16 +67,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-chapter3.png",
-          "bytes": 188906,
-          "sha256": "53bc79220fd67741ded1b0e322fe0c1f89881b9215ba38d27091cc40324bbb35",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-chapter3.png",
+          "bytes": 197396,
+          "sha256": "3ca0ba0f9db1286443d10161264ca40aed85071ffbfb5e31f29d6125106607b5",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "The town arrives for a meal that cannot be made by one pair of hands.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter3, chapter 3, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter3, chapter 3, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -93,16 +93,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-menu.png",
-          "bytes": 164525,
-          "sha256": "f9de0175a4a9d064c326c455a29b7aa2771b9f64f12792319ee2043c3c60e067",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-menu.png",
+          "bytes": 161826,
+          "sha256": "db3fc4c4f1e34bf7e4c0b04741b56bc41ed1767c32443df911f32784109a58e2",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind menu, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: menu, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -116,7 +116,7 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-story.png",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-story.png",
           "bytes": 178736,
           "sha256": "0936aa6a65573830c1f5f048b137441b7640a5b1b37b944349bf084c1cc6e1d7",
           "width": 1440,
@@ -124,8 +124,8 @@
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -139,16 +139,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-victory1.png",
-          "bytes": 186642,
-          "sha256": "7bbd7135a479c5706349865c7fa9d708991872b1afb4269c53b089943421e540",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-victory1.png",
+          "bytes": 194798,
+          "sha256": "ddd888fc8ed612083c75206b1028000375b72a704d206f1ae603708d709c8a5b",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory1, chapter 1, simulation tick 1754.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory1, chapter 1, simulation tick 1754.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -162,16 +162,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-story2.png",
-          "bytes": 181565,
-          "sha256": "df07e61b5c54d7f1cabc7dcd1a2f10df6bddd380eb16f705fce503afacaaaf5d",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-story2.png",
+          "bytes": 183257,
+          "sha256": "912840af6663ea793b1abd3802453d9b51e7911f0b7848e946d982f79def6a65",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story2, chapter 2, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story2, chapter 2, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -185,16 +185,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-victory2.png",
-          "bytes": 189680,
-          "sha256": "01c7814dd27cd34b87be2dc5cdcf523097f696be8db9c309032f04b95b9bb0ef",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-victory2.png",
+          "bytes": 198108,
+          "sha256": "1c8c8a8e16cea223134526775c55de3df1167c2417d80247b6eab442fe09dd21",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory2, chapter 2, simulation tick 2474.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory2, chapter 2, simulation tick 2474.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -208,16 +208,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-story3.png",
-          "bytes": 180966,
-          "sha256": "a3d0fa4fbf187a92358d5b6b5f81f3e59d749b9f5e76588530b36dcf237ea8a1",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-story3.png",
+          "bytes": 181690,
+          "sha256": "ce3e38825cd2a5a858dd79424fda8f9773dd2c5cb3166d907535381ba76fb542",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story3, chapter 3, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story3, chapter 3, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -231,16 +231,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-victory3.png",
-          "bytes": 190230,
-          "sha256": "7f2f967ee5123a30a27f2319a5cccbf91762109e3260569ebd76413d7f207cbf",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-victory3.png",
+          "bytes": 199449,
+          "sha256": "6cd1d442f8cd92c24ab0de982f39921a66dc38ba49fdc6f00d802ff658dc799e",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory3, chapter 3, simulation tick 3194.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory3, chapter 3, simulation tick 3194.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -254,16 +254,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/hearth-rush/2026-10-13/gameplay-finale.png",
-          "bytes": 167656,
-          "sha256": "c278b58f4811e6675000bec00a049712f6910e472f5216336056774d0f6df3a3",
+          "path": "Portfolio/Previews/polish/2026-10-13/hearth-rush/gameplay-finale.png",
+          "bytes": 166798,
+          "sha256": "5392f7b08f3fd735855aa6016541267733b0602e82683261f0b9ad1fce421aff",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind finale, chapter 3, simulation tick 3194.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: finale, chapter 3, simulation tick 3194.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [

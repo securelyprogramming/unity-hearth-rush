@@ -1,0 +1,69 @@
+{
+  "art": {
+    "accent": "#ffaf83",
+    "kind": "original-vector",
+    "motif": "Chef pot over a lively flame",
+    "provenance": "Repository-native SVG authored for this game; no paid source artwork.",
+    "sourceSha256": "4319b9ce2f6a6e47ac49a2346601361299f51511f186f5dfc0b68b4002516ad7"
+  },
+  "assets": {
+    "icon-128.png": {
+      "bytes": 17261,
+      "sha256": "74f2847a4c366a42f7e10246347b301d68391346678e5541d932c69d0865aba0"
+    },
+    "icon-16.png": {
+      "bytes": 841,
+      "sha256": "d3a9964862b00d8aaa60a67224f7bfefce63f4e4dddb222352d015744216585b"
+    },
+    "icon-256.png": {
+      "bytes": 47539,
+      "sha256": "ede56ef0ffba48927ed2fc09797048735efe4d8e92b902717f8bfaad4887243e"
+    },
+    "icon-32.png": {
+      "bytes": 2215,
+      "sha256": "bb8656b2ea9cd82a21209791895bf8ff496123ceac1e532af497be4788b2cad0"
+    },
+    "icon-512.png": {
+      "bytes": 124710,
+      "sha256": "1771b70a6b47bc5a72d1a838335b0fd213bafde2c44e4cad23b370e1c67b8558"
+    },
+    "icon-64.png": {
+      "bytes": 6303,
+      "sha256": "9104846980e6a207f3db407c1f3ffe28cf7c83d4dc1daea6628a0b801f01aae1"
+    },
+    "icon.bmp": {
+      "bytes": 196662,
+      "sha256": "d1e0c8f3b281aa6a91cc651b11d528832e148e4eecb684d203a60519d9683dc0"
+    },
+    "icon.icns": {
+      "bytes": 584524,
+      "sha256": "9225f0c26aa8c2b988e0dbeab305b4a77924023fc698a88b543cf37a26bf8198"
+    },
+    "icon.ico": {
+      "bytes": 80853,
+      "sha256": "9115587556be30831abcffef3fafb4211071a3d891397f754ec2f7498d7fe694"
+    },
+    "icon.png": {
+      "bytes": 246127,
+      "sha256": "947c256c13f04f4d3ef629e2b5c1ed039389392d1788101b259e0f92634bde18"
+    },
+    "source.png": {
+      "bytes": 239704,
+      "sha256": "4319b9ce2f6a6e47ac49a2346601361299f51511f186f5dfc0b68b4002516ad7"
+    },
+    "source.svg": {
+      "bytes": 1551,
+      "sha256": "a28b5f21c4f98df441346fc55c322aac03301932b07dbdfb3423103c53539e08"
+    }
+  },
+  "gameId": "hearth-rush",
+  "installs": [
+    {
+      "asset": "source.png",
+      "path": "Assets/Editor/Branding/GameAppIcon.png"
+    }
+  ],
+  "pipeline": "securelyprogramming/game-workbench/scripts/game-icons.py",
+  "schemaVersion": 1,
+  "scope": "Application icons only; store capsules and platform release certification are separate."
+}
